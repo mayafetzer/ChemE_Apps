@@ -10,13 +10,13 @@ A repository that holds a variety of apps that were made to help with chemical e
 
 ## Public Apps
 
-https://maf043-hw04-wastewater.streamlit.app/
+https://cheme-cstr.streamlit.app/
 
-https://maf043-hw04-mct.streamlit.app/
+https://cheme-lle.streamlit.app/
 
-https://maf043-hw04-lle.streamlit.app/
+https://cheme-mct.streamlit.app/
 
-https://maf043-hw04-cstr.streamlit.app/
+https://cheme-wastewater.streamlit.app/
 
 ## Files In This Repository
 
