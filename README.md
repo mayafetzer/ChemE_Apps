@@ -6,7 +6,7 @@ Semester: Fall 2024
 Course: CHEG 472  
 
 ## Purpose
-A repository that holds a variety of apps that were made to help with chemical engineering processes. 
+A repository that holds a variety of apps that were made to help with chemical engineering processes. The goal of this app is to make common chemical engineering calculations more simple by providing an interface for the calculations.
 
 ## Public Apps
 
